@@ -1,0 +1,8 @@
+{
+  "name": "azmisahin-software-hybrid-os-ionic-vue-cross-typescript-v1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "9ad2ad07"
+}
